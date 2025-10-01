@@ -1,0 +1,16 @@
+.container{
+  max-width: 500px;
+  margin: 30px;
+  padding: 20px;
+  border: 2px solid #a9a2a2;
+  border-radius: 10px;
+  background-color: #eee8e8;
+}
+.container-form{
+    margin-bottom: 15px;
+   display: flex;
+   flex-direction: column;
+}
+.heading{
+    margin-left: 50px;
+}
